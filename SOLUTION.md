@@ -18,4 +18,7 @@
 	2. ¿Qué es sobre-escritura de métodos? ¿Por qué aplicarla? ¿Cómo impedir que se sobre-escriba un método?.
 
     		La sobrescritura de métodos es cuando se quiere cambiar el comportamiento original de un método el cuál es heredado de otra clase. Sirve aplicarla, porque a veces unos métodos son declarados con un comportamiento que no aplica en el contexto en el que se encuentra. Para eso existen las clases abstractas que basicamente lo que hacen es definir métodos sin cuerpo, para decir, este objeto tiene estos métodos pero su implementación varia entre sus herederos. Para impedir que se sobreescriba un método es necesario escribir Final.
+		
+		
+Bueno profe, no terminé y no pasé pero por lo menos pude hacer la implementación :D. el parcial pasado no pude. 
 	
