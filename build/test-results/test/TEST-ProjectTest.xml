@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProjectTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-04-16T23:27:54" hostname="Cristians-MacBook-Pro.local" time="2.544">
+  <properties/>
+  <testcase name="shouldThrowsSabanaResearchExceptionWhenNormalActivityWithputSteps()" classname="ProjectTest" time="0.111"/>
+  <testcase name="shouldThrowsSabanaResearchExceptionWhenProjectWithoutIterations()" classname="ProjectTest" time="0.036"/>
+  <testcase name="shouldGetDurationWhenWellFormedProject()" classname="ProjectTest" time="0.026"/>
+  <testcase name="shouldThrowsSabanaResearchExceptionWhenDocumentedActivityWithoutNormalActivity()" classname="ProjectTest" time="0.022"/>
+  <testcase name="shouldThrowsSabanaResearchExceptionWhenDocumentedActivityWithNormalActivityWithoutSteps()" classname="ProjectTest" time="0.017"/>
+  <testcase name="shouldThrowsSabanaResearchExceptionWhenIterationWithoutActivities()" classname="ProjectTest" time="0.011"/>
+  <testcase name="shouldThrowsSabanaResearchExceptionWhenDocumentedActivityWithoutQuestions()" classname="ProjectTest" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
